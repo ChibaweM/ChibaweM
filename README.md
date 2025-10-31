@@ -26,7 +26,7 @@ Currently working as a **Security Engineer at Starlabs Limited**, specializing i
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Cybersecurity
 ![Security](https://img.shields.io/badge/SOC_Analysis-000000?style=flat&logo=security&logoColor=white)
@@ -122,10 +122,10 @@ Centralized file storage, media streaming, and network services
 
 - **BSc Computer Science and Informatics** - University of Johannesburg (2022)
 - **Data Science with Python** - University of Cape Town (2023)
-- **Fortinet Certified Fundamentals in Cybersecurity (2025)
+- **Fortinet Certified Fundamentals in Cybersecurity** - Fortinet (2025)
 - **Honours in Computer Science with Cybersecurity)** - University of Johannesburg (In Progress)
-- 📚 **CCNA** - Cisco (In Progress)
-- 📚 **Cybersecurity Analyst (CySA+)** - CompTIA (In Progress)
+- **CCNA** - Cisco (In Progress)
+- **Cybersecurity Analyst (CySA+)** - CompTIA (In Progress)
 
 ---
 
