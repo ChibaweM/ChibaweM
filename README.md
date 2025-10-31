@@ -20,7 +20,7 @@ Currently working as a **Security Engineer at Starlabs Limited**, specializing i
 - I'm currently working on a simple **Malware Classification Model** with python 
 - I'm also currently learning the fundamentals of Network Security via **CCNA** as well as preparing for **CompTIA CySA+**
 - Highly Active on **Leetcode**, **TryHackMe** and **HackTheBox** 
-- Experience in **SOC operations**, **Incidence Response**, **Threat Intelligence*** and **IDS/IPS**
+- Experience in **SOC operations**, **Incidence Response**, **Threat Intelligence** and **IDS/IPS**
 - Computer Science graduate with multiple IT certifications
 - Fun fact: I've built everything from e-commerce sites to kernel-level rootkits
 
