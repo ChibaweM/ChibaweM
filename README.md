@@ -1,28 +1,28 @@
-# Hi there, I'm Mkwenya Chibawe 👋
+# Mkwenya Chibawe (ChibaweM)
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkwenya-chibawe-a9b0741a8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chibawemkwenya.gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR_THM_PROFILE)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](YOUR_HTB_PROFILE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/metrohasapuma)
 
 </div>
 
-## 🛡️ Security Engineer | Cybersecurity Enthusiast | Software Developer
+## Software Developer | Cybersecurity Analyst | Security Engineer
 
-Currently working as a **Security Engineer at Starlabs Limited**, specializing in threat detection, incident response, and security monitoring. Pursuing Honours in Computer Science with a focus on Cybersecurity at the University of Johannesburg.
+Currently working as a **Security Engineer at Starlabs Limited**, specializing in threat detection, incident response, and security monitoring. Pursuing a certification in CyberSecurity Analysis with Comptia
 
 ---
 
-## 🔐 About Me
+## About Me
 
-- 🔭 I'm currently working on **malware detection systems** and **kernel-level security research**
-- 🌱 I'm currently learning **CCNA** and preparing for **CompTIA Security+**
-- 🎯 Active on **TryHackMe** and **HackTheBox** platforms
-- 💼 Experienced in **SOC operations**, **SIEM tools**, and **IDS/IPS**
-- 🎓 Computer Science graduate with certifications in Data Science
-- ⚡ Fun fact: I've built everything from e-commerce sites to kernel-level rootkits (ethically!)
+- I begun as a passionate Software Developer focusing on Web applications
+- I'm currently working on a simple **Malware Classification Model** with python 
+- I'm also currently learning the fundamentals of Network Security via **CCNA** as well as preparing for **CompTIA CySA+**
+- Highly Active on **Leetcode**, **TryHackMe** and **HackTheBox** 
+- Experience in **SOC operations**, **Incidence Response**, **Threat Intelligence*** and **IDS/IPS**
+- Computer Science graduate with multiple IT certifications
+- Fun fact: I've built everything from e-commerce sites to kernel-level rootkits (ethically!)
 
 ---
 
@@ -41,13 +41,11 @@ Currently working as a **Security Engineer at Starlabs Limited**, specializing i
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 ### Frameworks & Technologies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Databases & Systems
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -57,23 +55,23 @@ Currently working as a **Security Engineer at Starlabs Limited**, specializing i
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔒 Security Engineer | Starlabs Limited
+### Security Engineer | Starlabs Limited
 **December 2024 - Present**
 - SOC analysis and security event monitoring
 - Threat detection and incident response
 - Working with SIEM tools and endpoint security solutions
 - Contributing to enterprise security posture
 
-### 💻 Software Developer Intern | BlueConnectionz
+### Software Developer Intern | BlueConnectionz
 **November 2022 - September 2023**
 - Full-stack development and debugging
 - Collaborated with cross-functional teams
 - Version control management with Git
 - Technical documentation and code reviews
 
-### 🖥️ IT Help Desk Officer | Kleenline
+### IT Help Desk Officer | Kleenline (Holiday Work)
 **November 2020 - October 2024**
 - IT support at chemical manufacturing plant
 - Digital forms development for data collection
@@ -82,66 +80,62 @@ Currently working as a **Security Engineer at Starlabs Limited**, specializing i
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🦠 Malware Detection System
+### Malware Classification Model
 Real-time threat detection using signature-based and behavioral analysis
 - Technologies: `Python` `System Monitoring` `Threat Analysis`
-- Features: System-level monitoring, comprehensive logging, real-time alerts
-
-### 🔬 Kernel-Level Rootkit (Educational)
+- Features: Static Analysis, Dynamic Analysis (behavioral footprints)
+  
+### Kernel-Level Rootkit (Educational)
 Low-level system security research project
 - Technologies: `C` `Kernel Development` `Linux`
-- Focus: Process hiding, kernel function interception, detection strategies
+- Focus: Process Hiding, Kernel Function Interception, Detection Strategies
 
-### 🛡️ Student Security System
+### Student Security System
 Campus-wide security alert system for University of Johannesburg
 - Technologies: `React` `Spring Boot` `React Native` `PostgreSQL`
-- Features: Real-time alerts, admin dashboard, mobile application
+- Features: Real-time alerts, Admin dashboard, Mobile application
 
-### 📱 Android Flash Card App
-Study assistant application with intelligent flash card system
-- Technologies: `Kotlin` `Spring Boot` `PostgreSQL`
-- Features: Custom note parsing, spaced repetition learning
-
-### 🏠 Home Server Infrastructure
+### Home Server Infrastructure
 Centralized file storage, media streaming, and network services
 - Technologies: `Linux` `RAID` `VPN` `DHCP`
-- Features: Data redundancy, security protocols, remote access
+- Features: Data redundancy, Security protocols, Remote access
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChibaweM&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChibaweM&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChibaweM&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- 🎓 **Honours in Computer Science (Cybersecurity)** - University of Johannesburg (2024)
-- 🎓 **BSc Computer Science and Informatics** - University of Johannesburg (2022)
-- 📜 **Data Science with Python** - University of Cape Town (2023)
+- **BSc Computer Science and Informatics** - University of Johannesburg (2022)
+- **Data Science with Python** - University of Cape Town (2023)
+- **Fortinet Certified Fundamentals in Cybersecurity (2025)
+- **Honours in Computer Science with Cybersecurity)** - University of Johannesburg (In Progress)
 - 📚 **CCNA** - Cisco (In Progress)
-- 📚 **Security+ (CySA+)** - CompTIA (In Progress)
+- 📚 **Cybersecurity Analyst (CySA+)** - CompTIA (In Progress)
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
-I'm always interested in collaborating on cybersecurity projects, discussing security research, or connecting with fellow security enthusiasts!
+I'm always interested in collaborating on IT projects, discussing security research, or connecting with fellow security enthusiasts!
 
-- 💼 Open to: Security Research | SOC Operations | Threat Intelligence
-- 📫 Reach me: chibawemkwenya.gmail.com
-- 🔗 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- Open to: Software Development | Security Research | SOC Operations | Threat Intelligence
+- Reach me: chibawemkwenya.gmail.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/mkwenya-chibawe-a9b0741a8/)
 
 ---
 
@@ -149,6 +143,6 @@ I'm always interested in collaborating on cybersecurity projects, discussing sec
 
 ### "Security is not a product, but a process" - Bruce Schneier
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ChibaweM&color=blueviolet&style=flat-square)
 
 </div>
