@@ -30,7 +30,7 @@ Currently working as a **Security Engineer at Starlabs Limited**, specializing i
 
 ### Cybersecurity
 ![Security](https://img.shields.io/badge/SOC_Analysis-000000?style=flat&logo=security&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-FF6C37?style=flat&logo=splunk&logoColor=white)
+![Vulnerability Management](https://img.shields.io/badge/SIEM-FF6C37?style=flat&logo=splunk&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-4B275F?style=flat&logo=wireshark&logoColor=white)
 ![Threat Detection](https://img.shields.io/badge/Threat_Detection-DC382D?style=flat&logo=virustotal&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
