@@ -141,8 +141,6 @@ I'm always interested in collaborating on IT projects, discussing security resea
 
 <div align="center">
 
-### "Security is not a product, but a process" - Bruce Schneier
-
-![Profile Views](https://komarev.com/ghpvc/?username=ChibaweM&color=blueviolet&style=flat-square)
+### "I think it’s extraordinarily important that we, in computer science, keep the fun in computing" - Alan J. Perlis
 
 </div>
