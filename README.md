@@ -22,7 +22,7 @@ Currently working as a **Security Engineer at Starlabs Limited**, specializing i
 - Highly Active on **Leetcode**, **TryHackMe** and **HackTheBox** 
 - Experience in **SOC operations**, **Incidence Response**, **Threat Intelligence** and **IDS/IPS**
 - Computer Science graduate with multiple IT certifications
-- I've built everything from Resource Manangement sites to kernel-level rootkits
+- I've built a lot from Resource Manangement Systems to Chrome Extensions to Linux kernel-level rootkits
 
 ---
 
