@@ -2,13 +2,15 @@
 
 <div align="center">
   
+## Software Developer | Cybersecurity Analyst | Security Engineer
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkwenya-chibawe-a9b0741a8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chibawemkwenya.gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/metrohasapuma)
 
 </div>
 
-## Software Developer | Cybersecurity Analyst | Security Engineer
+
 
 In love with Computers and Operating Systems
 
