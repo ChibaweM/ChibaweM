@@ -10,13 +10,9 @@
 
 </div>
 
-
+## About Me
 
 In love with Computers and Operating Systems
-
----
-
-## About Me
 
 - I begun as a Software Developer focusing on Web applications
 - Active on **Leetcode**, **TryHackMe** and **HackTheBox** 
