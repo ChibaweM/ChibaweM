@@ -10,18 +10,16 @@
 
 ## Software Developer | Cybersecurity Analyst | Security Engineer
 
-Currently working as a **Security Engineer at Starlabs Limited**, specializing in threat detection, incident response, and security monitoring. Pursuing a certification in CyberSecurity Analysis with Comptia
+In love with Computers and Operating Systems
 
 ---
 
 ## About Me
 
-- I begun as a passionate Software Developer focusing on Web applications
-- I'm currently working on a simple **Malware Classification Model** with python 
-- I'm also currently learning the fundamentals of Network Security via **CCNA** as well as preparing for **CompTIA CySA+**
-- Highly Active on **Leetcode**, **TryHackMe** and **HackTheBox** 
+- I begun as a Software Developer focusing on Web applications
+- Active on **Leetcode**, **TryHackMe** and **HackTheBox** 
 - Experience in **SOC operations**, **Incidence Response**, **Threat Intelligence** and **IDS/IPS**
-- Computer Science graduate with multiple IT certifications
+- Computer Science graduate
 - I've built a lot from Resource Manangement Systems to Chrome Extensions to Linux kernel-level rootkits
 
 ---
@@ -52,80 +50,6 @@ Currently working as a **Security Engineer at Starlabs Limited**, specializing i
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## Professional Experience
-
-### Security Engineer | Starlabs Limited
-**December 2024 - Present**
-- SOC analysis and security event monitoring
-- Threat detection and incident response
-- Working with SIEM tools and endpoint security solutions
-- Contributing to enterprise security posture
-
-### Software Developer Intern | BlueConnectionz
-**November 2022 - September 2023**
-- Full-stack development and debugging
-- Collaborated with cross-functional teams
-- Version control management with Git
-- Technical documentation and code reviews
-
-### IT Help Desk Officer | Kleenline (Holiday Work)
-**November 2020 - October 2024**
-- IT support at chemical manufacturing plant
-- Digital forms development for data collection
-- Quality assurance and test case execution
-- System troubleshooting and documentation
-
----
-
-## Featured Projects
-
-### Malware Classification Model
-Real-time threat detection using signature-based and behavioral analysis
-- Technologies: `Python` `System Monitoring` `Threat Analysis`
-- Features: Static Analysis, Dynamic Analysis (behavioral footprints)
-  
-### Kernel-Level Rootkit (Educational)
-Low-level system security research project
-- Technologies: `C` `Kernel Development` `Linux`
-- Focus: Process Hiding, Kernel Function Interception, Detection Strategies
-
-### Student Security System
-Campus-wide security alert system for University of Johannesburg
-- Technologies: `React` `Spring Boot` `React Native` `PostgreSQL`
-- Features: Real-time alerts, Admin dashboard, Mobile application
-
-### Home Server Infrastructure
-Centralized file storage, media streaming, and network services
-- Technologies: `Linux` `RAID` `VPN` `DHCP`
-- Features: Data redundancy, Security protocols, Remote access
-
----
-
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChibaweM&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChibaweM&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChibaweM&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## Education & Certifications
-
-- **BSc Computer Science and Informatics** - University of Johannesburg (2022)
-- **Data Science with Python** - University of Cape Town (2023)
-- **Fortinet Certified Fundamentals in Cybersecurity** - Fortinet (2025)
-- **Honours in Computer Science with Cybersecurity)** - University of Johannesburg (In Progress)
-- **CCNA** - Cisco (In Progress)
-- **Cybersecurity Analyst (CySA+)** - CompTIA (In Progress)
 
 ---
 
