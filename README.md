@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## Software Developer | Cybersecurity Analyst | Security Engineer
+## Software Developer | Cybersecurity Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkwenya-chibawe-a9b0741a8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chibawemkwenya.gmail.com)
@@ -16,7 +16,7 @@ In love with Computers and Operating Systems
 
 - I begun as a Software Developer focusing on Web applications
 - Active on **Leetcode**, **TryHackMe** and **HackTheBox** 
-- Experience in **SOC operations**, **Incidence Response**, **Threat Intelligence** and **IDS/IPS**
+- Currently working on my experience in **SOC operations**, **Incidence Response**, **Threat Intelligence** and **IDS/IPS**
 - Computer Science graduate
 - I've built a lot from Resource Manangement Systems to Chrome Extensions to Linux kernel-level rootkits
 
